@@ -1,0 +1,39 @@
+C:\Users\DELL\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\DELL\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\DELL\source\repos\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\DELL\source\repos\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\source\repos\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\DELL\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\DELL\Desktop\Siguri\Siguri\Server\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\Desktop\Siguri\Siguri\Server\Server\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\Siguri\Siguri\Server\Server\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\Siguri\Siguri\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Siguri\Siguri\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\DELL\Desktop\Siguri\Siguri\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\Desktop\Siguri\Siguri\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Siguri\Siguri\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Siguri\Siguri\Server\Server\obj\Debug\Server.exe
+C:\Users\DELL\Desktop\Siguri\Siguri\Server\Server\obj\Debug\Server.pdb
+C:\Users\Kastriot Ademi\Desktop\Siguri\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Kastriot Ademi\Desktop\Siguri\Server\Server\obj\Debug\Server.exe
+C:\Users\Kastriot Ademi\Desktop\Siguri\Server\Server\obj\Debug\Server.pdb
+C:\Users\Kastriot Ademi\Desktop\Siguri\Server\Server\bin\Debug\Server.exe
+C:\Users\Kastriot Ademi\Desktop\Siguri\Server\Server\bin\Debug\Server.pdb
+C:\Users\Kastriot Ademi\Desktop\Siguri\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Kastriot Ademi\Desktop\Siguri\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Kastriot Ademi\Desktop\Siguri\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Kastriot Ademi\Desktop\Siguri\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\SiguriFinal\Server\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\Desktop\SiguriFinal\Server\Server\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\SiguriFinal\Server\Server\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\SiguriFinal\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\SiguriFinal\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\DELL\Desktop\SiguriFinal\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\Desktop\SiguriFinal\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\SiguriFinal\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SiguriFinal\Server\Server\obj\Debug\Server.exe
+C:\Users\DELL\Desktop\SiguriFinal\Server\Server\obj\Debug\Server.pdb

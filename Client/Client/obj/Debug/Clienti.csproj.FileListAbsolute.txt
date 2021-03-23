@@ -1,0 +1,28 @@
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Server\bin\Debug\Server.exe.config
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Server\obj\Debug\Server.exe
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Server\obj\Debug\Server.pdb
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Server\bin\Debug\Server.exe
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Server\bin\Debug\Server.pdb
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Server\obj\Debug\Server.Form1.resources
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Server\obj\Debug\Clienti.csproj.GenerateResource.Cache
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Server\bin\Debug\Client.exe.config
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Client\bin\Debug\Client.exe
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Client\bin\Debug\Client.pdb
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Client\obj\Debug\Clienti.csprojResolveAssemblyReference.cache
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Client\obj\Debug\Server.Form1.resources
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Client\obj\Debug\Clienti.csproj.GenerateResource.Cache
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Client\obj\Debug\Client.exe
+C:\Users\Kastriot Ademi\Desktop\Siguri\Client\Client\obj\Debug\Client.pdb
+C:\Users\DELL\Desktop\SiguriFinal\Client\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\Desktop\SiguriFinal\Client\Client\bin\Debug\Client.exe
+C:\Users\DELL\Desktop\SiguriFinal\Client\Client\bin\Debug\Client.pdb
+C:\Users\DELL\Desktop\SiguriFinal\Client\Client\obj\Debug\Clienti.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\SiguriFinal\Client\Client\obj\Debug\Server.Form1.resources
+C:\Users\DELL\Desktop\SiguriFinal\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\Desktop\SiguriFinal\Client\Client\obj\Debug\Clienti.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\SiguriFinal\Client\Client\obj\Debug\Clienti.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SiguriFinal\Client\Client\obj\Debug\Client.exe
+C:\Users\DELL\Desktop\SiguriFinal\Client\Client\obj\Debug\Client.pdb
